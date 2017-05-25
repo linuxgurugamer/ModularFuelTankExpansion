@@ -1,0 +1,15 @@
+{
+  "NAME": "MunarIndustries Fuel Tank Expansion",
+  "URL": "http://ksp-avc.cybutek.net/version.php?id=475",
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 9,
+    "PATCH": 5,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 2
+  }
+}

@@ -1,0 +1,6 @@
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+This package redistributes the following plugins, their license information can be found in the provided links:
+Interstellar Fuel Switch - made by FreeThinker - http://forum.kerbalspaceprogram.com/threads/117932-1-0-4-Interstellar-Fuel-Switch-1-16-(updated-12-9-2015)
+ModuleManager - made by Sarbian & Ialdabaoth - http://forum.kerbalspaceprogram.com/threads/55219-Module-Manager-1-5-6-%28Jan-6%29
+CrossFeedEnabler - made by NathanKell - http://forum.kerbalspaceprogram.com/threads/76499-0-90-CrossFeedEnabler-v3-2-Dec-20-14

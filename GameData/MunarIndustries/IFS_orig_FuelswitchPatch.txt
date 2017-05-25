@@ -1,0 +1,767 @@
+///MunarIndustries///
+
+@PART[MI_Thermos]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 22.5,27.5;45;55
+		basePartMass = 0.045
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Pancake]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 405,495;810;990
+		basePartMass = 1.25
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Hatbox]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 810,990;1620;1980
+		basePartMass = 1.25
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Piepan]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 180,220;360;440
+		basePartMass = 0.25
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Puck]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 22.5,27.5;45;55
+		basePartMass = 0.03125
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Oscar_Cone]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 5.735,7;11.47;14
+		basePartMass = 0.015
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Oscar_Dome]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 5,6;10;12
+		basePartMass = 0.015
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Oscar_Dome_LT]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 5,6;10;12
+		basePartMass = 0.0075
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Oscar_LT]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 5.9,7.2;11.7;14.3
+		basePartMass = 0.01
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Three75M_Adapt]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1260,1540;2520;3080
+		basePartMass = 2.25
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Three75M_Cone]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1620,1980;3240;3960
+		basePartMass = 2.5
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Three75M_Dome]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1260,1540;2520;3080
+		basePartMass = 2.25
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Jumbo_32]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1440,1760;2880;3520
+		basePartMass = 2
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Jumbo_Cone]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 720,880;1440;1760
+		basePartMass = 1
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Jumbo_Dome]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 475,581;950;1162
+		basePartMass = 
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_One25M_Cone]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 40,49.5;80;99
+		basePartMass = 0.045
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_One25M_Dome]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 30,36;60;72
+		basePartMass = 0.045
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_One25M_LT]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 45,55;90;110
+		basePartMass = 0.03125
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_One25M_Dome_LT]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 30,36;60;72
+		basePartMass = 0.025
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_LG]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 450,550;900;1100
+		basePartMass = 7
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Adapt_LG]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 225,275;450;550
+		basePartMass = 3.5
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Adapt_LG_Slant_P]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 225,275;450;550
+		basePartMass = 3.5
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Adapt_LG_Slant_S]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 225,275;450;550
+		basePartMass = 3.5
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Wedge_LG_M]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 172.5,211;345;422
+		basePartMass = 3.6
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Wedge_LG_ML]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 345,422;690;844
+		basePartMass = 6.3
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Wedge_LG_S]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 288,352;576;704
+		basePartMass = 3.6
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Wedge_LG_T]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 576,704;1152;1408
+		basePartMass = 5.4
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Wedge_SM_S]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 31.5,38.5;63;77
+		basePartMass = 0.1
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Wedge_SM_T]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 90,110;180;220
+		basePartMass = 0.2
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_SM_M]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 45,55;90;110
+		basePartMass = 0.075
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Radial_Adapt_SM]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 22.5,27.5;45;55
+		basePartMass = 0.1
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Two5M_Adapt]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 720,880;1440;1760
+		basePartMass = 1
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Two5M_Adapt_S]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 360,440;720;880
+		basePartMass = 0.35
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Two5M_Cone]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 720,880;1440;1760
+		basePartMass = 1
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Two5M_Dome]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 540,660;1080;1320
+		basePartMass = 1
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Toroid_LG]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 756,924;1512;1848
+		basePartMass = 1
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_Toroid_SM]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 63,77;126;154
+		basePartMass = 0.125
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_FiveM_Adapt]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 2420,2957;4840;5912
+		basePartMass = 2.8
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_FiveM_Adapt_S]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1210,1478;2420;2956
+		basePartMass = 1.4
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_FiveM_Cone]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 4536,5544;9072;11088
+		basePartMass = 5
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_FiveM_Dome]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 2419,2957;4838;5914
+		basePartMass = 3.5
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_FiveM_Tank_L]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 12096,14784;24192;29568
+		basePartMass = 14
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_FiveM_Tank_M]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 6048,7392;12096;14784
+		basePartMass = 7
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_FiveM_Tank_S]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 3024,3696;6048;7392
+		basePartMass = 3.5
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
+@PART[MI_WagonWheel]
+{
+	MODULE
+	{
+
+		name = InterstellarFuelSwitch
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1512,1848;3024;3696
+		basePartMass = 2
+		displayCurrentTankCost = false
+		hasGUI = true
+		availableInFlight = false
+		availableInEditor = true
+		showInfo = true
+	}
+
+}
