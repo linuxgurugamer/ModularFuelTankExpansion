@@ -7,10 +7,11 @@
 	Adjusted all resource amounts based on actual part volume
 	adjusted all part masses based on fuel amount (using 8:1 ratio)
 
-0.9.5.2
+	Removed ModuleManager from download
+0.9.5.3
 	Added title to Agency
 	Added tags to all tanks
-=======
+
 	Initial beta release
 		Fixed Fuel Switch config dry masses
 		Added patch for ConnectedLivingSpace, thanks to @psycho_zs
@@ -20,5 +21,3 @@
 		Adjusted all resource amounts based on actual part volume
 		adjusted all part masses based on fuel amount (using 8:1 ratio)
 
-0.9.5.2
-	Removed ModuleManager from download
