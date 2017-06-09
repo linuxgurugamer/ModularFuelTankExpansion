@@ -1,7 +1,12 @@
-Fixed Fuel Switch config dry masses
-Added patch for ConnectedLivingSpace, thanks to @psycho_zs
-Added patch for ModulerFuelTanks, thanks to @fatcargo
-Added patch for Tweakscale, tahnks to @fatcargo
+0.9.5.1
+	Fixed Fuel Switch config dry masses
+	Added patch for ConnectedLivingSpace, thanks to @psycho_zs
+	Added patch for ModulerFuelTanks, thanks to @fatcargo
+	Added patch for Tweakscale, tahnks to @fatcargo
 
-Adjusted all resource amounts based on actual part volume
-adjusted all part masses based on fuel amount (using 8:1 ratio)
+	Adjusted all resource amounts based on actual part volume
+	adjusted all part masses based on fuel amount (using 8:1 ratio)
+
+0.9.5.*
+	Added title to Agency
+	Added tags to all tanks
