@@ -1,3 +1,15 @@
+0.9.5.4
+	Moved Tuned Part Masses patch into PatchManager subdir
+	Added PatchManager as a suggested mod
+
+
+0.9.5.3
+	Added  title to agency
+	Added tags to all tanks
+
+0.9.5.2
+	Removed ModuleManager DLL
+
 0.9.5.1
 	Fixed Fuel Switch config dry masses
 	Added patch for ConnectedLivingSpace, thanks to @psycho_zs
@@ -7,10 +19,11 @@
 	Adjusted all resource amounts based on actual part volume
 	adjusted all part masses based on fuel amount (using 8:1 ratio)
 
-0.9.5.2
+	Removed ModuleManager from download
+0.9.5.3
 	Added title to Agency
 	Added tags to all tanks
-=======
+
 	Initial beta release
 		Fixed Fuel Switch config dry masses
 		Added patch for ConnectedLivingSpace, thanks to @psycho_zs
@@ -20,5 +33,3 @@
 		Adjusted all resource amounts based on actual part volume
 		adjusted all part masses based on fuel amount (using 8:1 ratio)
 
-0.9.5.2
-	Removed ModuleManager from download

@@ -50,6 +50,6 @@ copy Changelog.txt GameData\MunarIndustries
 
 set FILE="%RELEASEDIR%\MunarIndustriesFTX-%VERSION%.zip"
 IF EXIST %FILE% del /F %FILE%
-%ZIP% a -tzip %FILE% GameData Extras
+%ZIP% a -tzip %FILE% GameData 
 
 
