@@ -1,3 +1,6 @@
+0.9.5.5
+	Fixed cfg patch files for MM 3.0.1
+
 0.9.5.4
 	Moved Tuned Part Masses patch into PatchManager subdir
 	Added PatchManager as a suggested mod
