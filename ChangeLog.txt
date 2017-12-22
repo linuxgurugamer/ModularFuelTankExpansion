@@ -1,3 +1,8 @@
+0.9.6
+	Added TexturesUnlimited patch by @MeCripp
+	updated modname in patch files (was too long)
+	
+
 0.9.5.5
 	Fixed cfg patch files for MM 3.0.1
 
