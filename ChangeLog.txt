@@ -1,3 +1,6 @@
+0.9.6.1
+	Updated version info for 1.4.1
+
 0.9.6
 	Added TexturesUnlimited patch by @MeCripp
 	
