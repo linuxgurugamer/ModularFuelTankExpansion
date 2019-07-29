@@ -1,3 +1,7 @@
+0.9.6.5
+	Thanks to @Lisias for this:
+		Fixing **FATAL** problems found on TweakScale patches.
+
 0.9.6.4
     Version bump for 1.7.2
     
