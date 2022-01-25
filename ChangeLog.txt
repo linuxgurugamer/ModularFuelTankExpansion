@@ -1,5 +1,9 @@
 ChangeLog
 
+0.9.7.1
+	Thanks to @John-McFly for this:
+		Setting 'fuelCrossFeed = True' properly on stack LFO tanks.
+		
 0.9.7
 	Updated for KSP 1.8
 
